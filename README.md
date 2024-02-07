@@ -1,5 +1,5 @@
 👋 Hi, I’m <strong>Deepak Tiwari</strong> <br>
-Let's code and grow!
+✨ Let's code and grow! ✨
 
 <!---
 ablydeepak/ablydeepak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
